@@ -17,6 +17,7 @@ Maven or Gradle for dependency management
 JUnit 5 for testing
 Dependencies
 JUnit 5: For unit testing.
+
 Add the following to your Maven pom.xml:
 <dependencies>
     <dependency>
@@ -28,6 +29,7 @@ Add the following to your Maven pom.xml:
 </dependencies>.
 
 =====================================
+
 **Setup and Usage**
 
 Clone the Repository
